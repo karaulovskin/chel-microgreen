@@ -1,17 +1,16 @@
-import s from './Header.module.css';
-
 import React from "react";
+import { Root, Row } from './styles';
 import Logo from '../Logo/Logo';
 import Socials from "../Socials/Socials";
 
 const Header = () => {
     return (
-        <header className={s.root}>
-            <div className={s.row}>
+        <Root>
+            <Row>
                 <Logo />
                 <Socials />
-            </div>
-        </header>
+            </Row>
+        </Root>
     )
 }
 
