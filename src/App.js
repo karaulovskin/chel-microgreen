@@ -1,20 +1,14 @@
 import React from "react";
-
-import "./App.css";
-import Header from "./components/Header/Header";
-import PlantaeList from "./components/PlantaeList/PlantaeList";
-import Hero from "./components/Hero/Hero";
-import Counter from "./components/Counter/Counter";
-
+import { BrowserRouter, Route } from "react-router-dom";
+import HomePage from "./Pages/HomePage/HomePage";
+import CatalogPage from "./Pages/CatalogPage/CatalogPage";
 
 function App() {
   return (
-    <div className="App">
-      <Header/>
-      <Hero/>
-      <PlantaeList/>
-      <Counter/>
-    </div>
+    <BrowserRouter>
+      <Route path="/" exact component={HomePage}/>
+      <Route path="/catalog" exact component={CatalogPage}/>
+    </BrowserRouter>
   );
 }
 
