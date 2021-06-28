@@ -20,12 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5153cc9f-e8b9-4a42-a387-7ec6449bd208" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pages/CatalogPage/CatalogPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pages/HomePage/HomePage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/CatalogPage/CatalogPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/CatalogPage/CatalogPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/HomePage/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/HomePage/HomePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PlantaeList/PlantaeList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Catalog/Catalog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PlantaeList/PlantaeList.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Catalog" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -58,7 +59,11 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\karaulovskin\Project\chel-microgreen\src\components\Catalog" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\karaulovskin\Project\chel-microgreen\src\components\Catalog" />
       <recent name="D:\karaulovskin\Project\chel-microgreen\src\Pages\HomePage" />
       <recent name="D:\Project\chel-microgreen\src\components\PlantaeList" />
     </key>
@@ -76,7 +81,11 @@
       <workItem from="1615128688942" duration="7316000" />
       <workItem from="1616578865984" duration="90000" />
       <workItem from="1624438650010" duration="587000" />
-      <workItem from="1624477880112" duration="1280000" />
+      <workItem from="1624477880112" duration="1405000" />
+      <workItem from="1624521358812" duration="613000" />
+      <workItem from="1624640985914" duration="361000" />
+      <workItem from="1624816770049" duration="23000" />
+      <workItem from="1624911249095" duration="2398000" />
     </task>
     <servers />
   </component>
@@ -96,9 +105,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="273" key="FileChooserDialogImpl" timestamp="1624439235729">
+    <state x="740" y="273" key="FileChooserDialogImpl" timestamp="1624816791364">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="273" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624439235729" />
+    <state x="740" y="273" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624816791364" />
   </component>
 </project>
