@@ -9,7 +9,8 @@ export const Row = styled.ul`
     align-items: center;
     justify-content: space-between;
     & li {
-        margin-right: 20px;
+        margin-right: 100px;
+        color: white;
         &::marker {
           content: none;
         }

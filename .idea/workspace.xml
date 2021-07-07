@@ -20,12 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5153cc9f-e8b9-4a42-a387-7ec6449bd208" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Hero/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/components/Typography/Typography.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/components/Typography/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/components/Typography/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/constants/colors.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pages/CatalogPage/CatalogPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/CatalogPage/CatalogPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pages/HomePage/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/HomePage/HomePage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PlantaeList/PlantaeList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Catalog/Catalog.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PlantaeList/PlantaeList.module.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Hero/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hero/Hero.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Hero/Hero.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Nav/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/hero-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/hero-bg.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +53,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Catalog" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -59,13 +65,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\karaulovskin\Project\chel-microgreen\src\components\Catalog" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\karaulovskin\Project\chel-microgreen\public" />
       <recent name="D:\karaulovskin\Project\chel-microgreen\src\components\Catalog" />
       <recent name="D:\karaulovskin\Project\chel-microgreen\src\Pages\HomePage" />
       <recent name="D:\Project\chel-microgreen\src\components\PlantaeList" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\karaulovskin\Project\chel-microgreen\src\components\Catalog" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -85,7 +92,9 @@
       <workItem from="1624521358812" duration="613000" />
       <workItem from="1624640985914" duration="361000" />
       <workItem from="1624816770049" duration="23000" />
-      <workItem from="1624911249095" duration="2398000" />
+      <workItem from="1624911249095" duration="2634000" />
+      <workItem from="1624952511136" duration="32000" />
+      <workItem from="1625673689000" duration="3166000" />
     </task>
     <servers />
   </component>
@@ -105,9 +114,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="273" key="FileChooserDialogImpl" timestamp="1624816791364">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2638" y="214" key="#CSS" timestamp="1625676701556">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2638" y="214" key="#CSS/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1625676701556" />
+    <state x="2660" y="273" key="FileChooserDialogImpl" timestamp="1624952527870">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="273" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1624816791364" />
+    <state x="2660" y="273" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1624952527870" />
   </component>
 </project>

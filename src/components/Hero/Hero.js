@@ -1,11 +1,9 @@
-import s from "./Hero.module.scss";
 import React from "react";
+import { Root } from "./styles";
 
 const Hero = () => {
     return (
-        <div className={s.root}>
-
-        </div>
+        <Root />
     )
 }
 
