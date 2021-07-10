@@ -3,16 +3,14 @@ import { Root, Row } from "./styles";
 
 const nav = [
   {
-    id: 1,
     label: 'Каталог'
   },
   {
-    id: 2,
     label: 'Корзина'
   }
 ]
-const listItems = nav.map((item) =>
-  <li key={ item.id }>
+const listItems = nav.map((item, index) =>
+  <li key={ `${index}_${item.label}`}>
     { item.label }
   </li>
 );
