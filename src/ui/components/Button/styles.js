@@ -8,3 +8,7 @@ export const StyledButton = styled.button`
   border: 2px solid ${props => props.theme.main};
 `
 
+export const theme = {
+  main: "green"
+}
+

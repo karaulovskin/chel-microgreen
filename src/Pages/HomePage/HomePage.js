@@ -5,6 +5,7 @@ import Header from "../../components/Header/Header";
 import Hero from "../../components/Hero/Hero";
 import Catalog from "../../components/Catalog/Catalog";
 import Button from "../../ui/components/Button/Button";
+import { theme } from "../../ui/components/Button/styles";
 
 function HomePage() {
   return (
