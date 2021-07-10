@@ -1,8 +1,6 @@
 import React from "react";
 import "../../App.css";
-import Header from "../../components/Header/Header";
-import Catalog from "../../components/Catalog/Catalog";
-import Counter from "../../components/Counter/Counter";
+import { Header, Catalog, Counter } from "../../components";
 
 function CatalogPage() {
   return (

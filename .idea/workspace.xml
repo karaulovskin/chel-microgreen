@@ -20,8 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5153cc9f-e8b9-4a42-a387-7ec6449bd208" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/components/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Nav/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav/Nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/CatalogPage/CatalogPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/CatalogPage/CatalogPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/HomePage/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/HomePage/HomePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/components/Typography/Typography.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/components/Typography/Typography.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/components/Typography/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/components/Typography/styles.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +93,7 @@
       <workItem from="1625724205159" duration="15000" />
       <workItem from="1625818285870" duration="4837000" />
       <workItem from="1625914678467" duration="1464000" />
+      <workItem from="1625933993452" duration="1506000" />
     </task>
     <servers />
   </component>
