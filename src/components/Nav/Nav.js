@@ -8,7 +8,7 @@ const nav = [
   },
   {
     id: 2,
-    label: 'Карзина'
+    label: 'Корзина'
   }
 ]
 const listItems = nav.map((item) =>

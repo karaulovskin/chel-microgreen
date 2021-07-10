@@ -20,18 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5153cc9f-e8b9-4a42-a387-7ec6449bd208" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Hero/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/components/Typography/Typography.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/components/Typography/constants.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/components/Typography/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/constants/colors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/components/Button/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/components/Button/styles.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/styles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Hero/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hero/Hero.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Hero/Hero.module.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Nav/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav/styles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/hero-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/hero-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/HomePage/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/HomePage/HomePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Nav/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav/Nav.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +89,9 @@
       <workItem from="1624816770049" duration="23000" />
       <workItem from="1624911249095" duration="2634000" />
       <workItem from="1624952511136" duration="32000" />
-      <workItem from="1625673689000" duration="3166000" />
+      <workItem from="1625673689000" duration="3501000" />
+      <workItem from="1625724205159" duration="15000" />
+      <workItem from="1625818285870" duration="4837000" />
     </task>
     <servers />
   </component>
@@ -118,6 +115,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2638" y="214" key="#CSS/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1625676701556" />
+    <state x="586" y="197" key="#Inspections" timestamp="1625820829159">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="197" key="#Inspections/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1625820829159" />
     <state x="2660" y="273" key="FileChooserDialogImpl" timestamp="1624952527870">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
