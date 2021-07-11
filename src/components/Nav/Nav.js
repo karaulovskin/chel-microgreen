@@ -9,7 +9,8 @@ const nav = [
     label: 'Корзина'
   }
 ]
-const listItems = nav.map((item, index) =>
+
+const list = nav.map((item, index) =>
   <li key={ `${index}_${item.label}`}>
     { item.label }
   </li>
@@ -19,7 +20,7 @@ const Nav = () => {
   return (
     <Root>
       <Row>
-        { listItems }
+        { list }
       </Row>
     </Root>
   )

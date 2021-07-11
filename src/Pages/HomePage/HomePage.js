@@ -14,7 +14,7 @@ function HomePage() {
       </ThemeProvider>
       <Header/>
       <Hero/>
-      <SortingPopup/>
+      <SortingPopup items={['популярности', 'цене', 'алфавиту']}/>
       <h1>Все товары</h1>
       <Catalog/>
     </div>
