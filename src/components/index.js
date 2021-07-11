@@ -5,3 +5,4 @@ export {default as Hero} from './Hero/Hero';
 export {default as Logo} from './Logo/Logo';
 export {default as Nav} from './Nav/Nav';
 export {default as Socials} from './Socials/Socials';
+export {default as SortingPopup} from './SortingPopup/SortingPopup';
